@@ -1,0 +1,15 @@
+C:\Users\dmitr\source\repos\InginerCalkylator\InginerCalkylator\obj\Debug\InginerCalkylator.csproj.AssemblyReference.cache
+C:\Users\dmitr\source\repos\InginerCalkylator\InginerCalkylator\obj\Debug\MainWindow.g.cs
+C:\Users\dmitr\source\repos\InginerCalkylator\InginerCalkylator\obj\Debug\App.g.cs
+C:\Users\dmitr\source\repos\InginerCalkylator\InginerCalkylator\obj\Debug\InginerCalkylator_MarkupCompile.cache
+C:\Users\dmitr\source\repos\InginerCalkylator\InginerCalkylator\obj\Debug\InginerCalkylator_MarkupCompile.lref
+C:\Users\dmitr\source\repos\InginerCalkylator\InginerCalkylator\bin\Debug\InginerCalkylator.exe.config
+C:\Users\dmitr\source\repos\InginerCalkylator\InginerCalkylator\bin\Debug\InginerCalkylator.exe
+C:\Users\dmitr\source\repos\InginerCalkylator\InginerCalkylator\bin\Debug\InginerCalkylator.pdb
+C:\Users\dmitr\source\repos\InginerCalkylator\InginerCalkylator\obj\Debug\MainWindow.baml
+C:\Users\dmitr\source\repos\InginerCalkylator\InginerCalkylator\obj\Debug\InginerCalkylator.g.resources
+C:\Users\dmitr\source\repos\InginerCalkylator\InginerCalkylator\obj\Debug\InginerCalkylator.Properties.Resources.resources
+C:\Users\dmitr\source\repos\InginerCalkylator\InginerCalkylator\obj\Debug\InginerCalkylator.csproj.GenerateResource.cache
+C:\Users\dmitr\source\repos\InginerCalkylator\InginerCalkylator\obj\Debug\InginerCalkylator.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\InginerCalkylator\InginerCalkylator\obj\Debug\InginerCalkylator.exe
+C:\Users\dmitr\source\repos\InginerCalkylator\InginerCalkylator\obj\Debug\InginerCalkylator.pdb
